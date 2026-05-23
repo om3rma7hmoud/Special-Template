@@ -6,7 +6,7 @@ A responsive and interactive landing page built with HTML, CSS, and Vanilla Java
 
 ## 🎯 Live Demo
 
-[🚀 View Live Demo](https://om3rma7hmoud.github.io/Special-Template/) *(if hosted on GitHub Pages)*
+[🚀 View Live Demo](https://om3rma7hmoud.github.io/Special-Template/)
 
 ---
 
@@ -223,9 +223,8 @@ Through this project, I practiced:
 
 ## 📞 Contact & Support
 
-- **Portfolio:** [Your Portfolio Link]
 - **GitHub:** [@om3rma7hmoud](https://github.com/om3rma7hmoud)
-- **Email:** your.email@example.com
+- **Email:** wearethe1u@gmail.com
 
 ---
 
@@ -244,14 +243,6 @@ Front-End Developer | Web Design Enthusiast
 This project is created for learning and portfolio purposes.
 
 Feel free to use it as a reference for your own projects!
-
----
-
-## 📝 Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | May 2026 | Initial release |
 
 ---
 
