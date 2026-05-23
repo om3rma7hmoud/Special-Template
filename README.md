@@ -157,20 +157,6 @@ Through this project, I practiced:
 
 ---
 
-## Screenshots
-
-Add screenshots of the application here.
-
-```md
-![Home](screenshots/home.png)
-
-![Gallery](screenshots/gallery.png)
-
-![Settings](screenshots/settings.png)
-```
-
----
-
 ## Author
 
 **Omar Mahmoud**
